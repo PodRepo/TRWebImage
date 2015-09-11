@@ -20,24 +20,24 @@ PODS:
   - AFNetworking/UIKit (2.6.0):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
-  - TRCache (0.1):
+  - TRCache (0.2):
     - AFNetworking (~> 2.6.0)
 
 DEPENDENCIES:
-  - TRCache (from `https://github.com/PodRepo/TRCache.git`, tag `0.1`)
+  - TRCache (from `https://github.com/PodRepo/TRCache.git`, tag `0.2`)
 
 EXTERNAL SOURCES:
   TRCache:
     :git: https://github.com/PodRepo/TRCache.git
-    :tag: '0.1'
+    :tag: '0.2'
 
 CHECKOUT OPTIONS:
   TRCache:
     :git: https://github.com/PodRepo/TRCache.git
-    :tag: '0.1'
+    :tag: '0.2'
 
 SPEC CHECKSUMS:
   AFNetworking: 79f7eb1a0fcfa7beb409332b2ca49afe9ce53b05
-  TRCache: 8ba6d3a1d22a361b8556c51ca454347441953bb7
+  TRCache: 21b10c27918df7ecbd6aaeb6cd7f84451dc0fa2a
 
 COCOAPODS: 0.38.2

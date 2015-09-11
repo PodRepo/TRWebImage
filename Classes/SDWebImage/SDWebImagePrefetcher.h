@@ -42,12 +42,6 @@ typedef void(^SDWebImagePrefetcherCompletionBlock)(NSUInteger noOfFinishedUrls, 
  * Prefetch some URLs in the cache for future use. Images are downloaded in low priority.
  */
 @interface SDWebImagePrefetcher : NSObject
-
-/**
- *  The web image manager
- */
-@property (strong, nonatomic, readonly) TRWebDataManager *manager;
-
 /**
  * Maximum number of URLs to prefetch at the same time. Defaults to 3.
  */

@@ -9,7 +9,7 @@
 #import "SDWebImageCompat.h"
 #import "SDWebImageOperation.h"
 
-#import "TRWebDataManager.h"
+
 
 typedef NS_ENUM(NSInteger, SDImageCacheType) {
     /**
