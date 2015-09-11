@@ -172,6 +172,7 @@
 		C0053DD61BA057A100A0228B /* SDWebImage */ = {
 			isa = PBXGroup;
 			children = (
+				C0053DE61BA057A100A0228B /* TRWebImage.h */,
 				C0053DD71BA057A100A0228B /* MKAnnotationView+WebCache.h */,
 				C0053DD81BA057A100A0228B /* MKAnnotationView+WebCache.m */,
 				C0053DD91BA057A100A0228B /* NSData+ImageContentType.h */,
@@ -187,7 +188,6 @@
 				C0053DE31BA057A100A0228B /* SDWebImageOperation.h */,
 				C0053DE41BA057A100A0228B /* SDWebImagePrefetcher.h */,
 				C0053DE51BA057A100A0228B /* SDWebImagePrefetcher.m */,
-				C0053DE61BA057A100A0228B /* TRWebImage.h */,
 				C0053DE71BA057A100A0228B /* UIButton+WebCache.h */,
 				C0053DE81BA057A100A0228B /* UIButton+WebCache.m */,
 				C0053DE91BA057A100A0228B /* UIImage+GIF.h */,
