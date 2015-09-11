@@ -6,7 +6,7 @@
 //  Copyright (c) 2012 Dailymotion. All rights reserved.
 //
 
-#import "MapKit/MapKit.h"
+#import <MapKit/MapKit.h>
 #import "SDWebImageManager.h"
 
 /**
