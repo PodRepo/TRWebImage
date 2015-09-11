@@ -24,17 +24,7 @@ PODS:
     - AFNetworking (~> 2.6.0)
 
 DEPENDENCIES:
-  - TRCache (from `https://github.com/PodRepo/TRCache.git`, tag `0.2`)
-
-EXTERNAL SOURCES:
-  TRCache:
-    :git: https://github.com/PodRepo/TRCache.git
-    :tag: '0.2'
-
-CHECKOUT OPTIONS:
-  TRCache:
-    :git: https://github.com/PodRepo/TRCache.git
-    :tag: '0.2'
+  - TRCache (= 0.2)
 
 SPEC CHECKSUMS:
   AFNetworking: 79f7eb1a0fcfa7beb409332b2ca49afe9ce53b05
